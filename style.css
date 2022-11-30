@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #001632;
+}
+
+h1{
+    color: #6c757d;
+    margin-top: 50px;
+    font-size: 15vh;
+}
+
+li{
+    font-weight: 600;
+}
+
+button{
+    background-color: #001632;
+    color: #efbc16;
+    border: 1px solid #efbc16;
+    padding: 0 1rem;
+}
+
+i{
+    background-color: #dc3545;
+    padding: 0.5rem;
+    border: 0;
+    border-radius: 5px;
+}
+
+.barred{
+    text-decoration: line-through;
+}
